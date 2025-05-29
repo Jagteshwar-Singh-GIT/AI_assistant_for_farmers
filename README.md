@@ -1,17 +1,29 @@
 # AI_assistant_for_farmers
 DRDO Project Prerquisites:
-python
-langchain
-ollama - llama3 model
-chroma db
-embedding model: mxbai-embed-large
-torch
-flask
-asyncio
-PIL
-torch
-uuid
-argeparse
+
+1.python
+
+2.langchain
+
+3.ollama - llama3 model
+
+4.chroma db
+
+5.embedding model: mxbai-embed-large
+
+6.torch
+
+7.flask
+
+8.asyncio
+
+9.PIL
+
+10.torch
+
+11.uuid
+
+12.argeparse
 
 Download ollama then run command: ollama pull llama3, or any model you like to act as the llm model also run command: ollama pull mxbai-embed-large
 
